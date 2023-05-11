@@ -26,6 +26,20 @@ Enunciado:
  */
 ```
 
+#### Tabla de multiplicar
+
+Dificultad: Sencillo
+
+Enunciado:
+
+```
+/*
+ * Escribe un programa que muestre la tabla de multiplicar
+ * introducido por parámetro
+ */
+```
+
+
 Ejercicios aceptables
 ---
 #### Octal y Hexadecimal
