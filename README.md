@@ -18,7 +18,7 @@ Ejercicios Complicados
 #### EL GENERADOR DE CONTRASEÑAS
 Dificultad: Complicado
 
-## Enunciado
+Enunciado
 
 ```
 /*
