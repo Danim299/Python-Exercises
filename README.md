@@ -1,1 +1,4 @@
 # Python-Exercises
+
+Ejercicios sencillos
+---
