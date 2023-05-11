@@ -118,3 +118,4 @@ Enunciado:
  * - Debes buscar información sobre cómo se juega con estas 5 posibilidades.
  */
 ```
+#### Tutorial de Python [aquí](https://github.com/Danim299/Python-Tutorial)
