@@ -46,7 +46,7 @@ Enunciado:
 #### La escalera
 Dificultad: Aceptable
 
-Enunciado
+Enunciado:
 
 ```
 /*
@@ -90,7 +90,7 @@ Enunciado:
 
 Dificultad: Complicado
 
-Enunciado
+Enunciado:
 
 ```
 /*
