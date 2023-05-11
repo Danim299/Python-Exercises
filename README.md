@@ -8,8 +8,15 @@ Vamos a categorizarlos en 3 niveles:
 Ejercicios sencillos
 ---
 
-# Reto #3: EL GENERADOR DE CONTRASEÑAS
-#### Dificultad: Media | Publicación: 16/01/23 | Corrección: 23/01/23
+Ejercicios aceptables
+---
+
+Ejercicios Complicados
+---
+
+
+EL GENERADOR DE CONTRASEÑAS
+Dificultad: Complicado
 
 ## Enunciado
 
