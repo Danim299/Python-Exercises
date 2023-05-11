@@ -15,7 +15,7 @@ Ejercicios Complicados
 ---
 
 
-EL GENERADOR DE CONTRASEÑAS
+####EL GENERADOR DE CONTRASEÑAS
 Dificultad: Complicado
 
 ## Enunciado
