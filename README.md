@@ -118,4 +118,5 @@ Enunciado:
  * - Debes buscar información sobre cómo se juega con estas 5 posibilidades.
  */
 ```
+Ejercicios sacados de [Mouredev](https://github.com/mouredev)
 #### Tutorial de Python [aquí](https://github.com/Danim299/Python-Tutorial)
